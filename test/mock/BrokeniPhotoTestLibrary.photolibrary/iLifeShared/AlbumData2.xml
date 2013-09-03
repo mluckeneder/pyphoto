@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+<key>Application Version</key>
+<string>9.4</string>
+<key>Archive Path</key>
+<string>/Users/michael/Pictures/iPhotoTestLibrary.photolibrary</string>
+<key>ArchiveId</key>
+<string>1</string>
+<key>Movie Serial Number</key>
+<string>0</string>
+<key>List of Albums</key>
+<array>
+<dict>
+<key>AlbumId</key>
+<integer>4</integer>
+<key>AlbumName</key>
+<string>Photos</string>
+<key>GUID</key>
+<string>allPhotosAlbum</string>
+<key>Master</key><true/>
+<key>TransitionSpeed</key>
+<real>1</real>
+<key>ShuffleSlides</key><false/>
+<key>KeyListString</key>
+<string>39,41,43,45,47,49,51,53,55,57,59,1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37</string>
+<key>PhotoCount</key>
+<integer>30</integer>
+</dict>
+<dict>
+<key>AlbumId</key>
+<integer>10</integer>
+<key>AlbumName</key>
+<string>Flagged</string>
+<key>Album Type</key>
+<string>Flagged</string>
+<key>GUID</key>
+<string>flaggedAlbum</string>
+<key>KeyListString</key>
+<string></string>
+<key>PhotoCount</key>
+<integer>0</integer>
+</dict>
+<dict>
+<key>AlbumId</key>
+<integer>7</integer>
+<key>AlbumName</key>
+<string>Last 12 Months</string>
+<key>Album Type</key>
+<string>Special Month</string>
+<key>GUID</key>
+<string>lastNMonthsAlbum</string>
+<key>KeyListString</key>
+<string>39,41,43,45,47,49,51,53,55,57,59,1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37</string>
+<key>PhotoCount</key>
+<integer>30</integer>
+</dict>
+<dict>
+<key>AlbumId</key>
+<integer>8</integer>
+<key>AlbumName</key>
+<string>Last Import</string>
+<key>Album Type</key>
+<string>Regular</string>
+<key>GUID</key>
+<string>lastImportAlbum</string>
+<key>TransitionSpeed</key>
+<real>1</real>
+<key>ShuffleSlides</key><false/>
+<key>KeyListString</key>
+<string>39,41,43,45,47,49,51,53,55,57,59</string>
+<key>PhotoCount</key>
+<integer>11</integer>
+</dict>
+</array>
+<key>List of Rolls</key>
+<array>
+<dict>
+<key>RollID</key>
+<integer>10</integer>
+<key>RollName</key>
+<string>Event 2</string>
+<key>RollDateAsTimerInterval</key>
+<real>396899948.000000</real>
+<key>KeyPhotoKey</key>
+<string>39</string>
+<key>PhotoCount</key>
+<integer>11</integer>
+<key>KeyListString</key>
+<string>39,41,43,45,47,49,51,53,55,57,59</string>
+</dict>
+<dict>
+<key>RollID</key>
+<integer>5</integer>
+<key>RollName</key>
+<string>Event 1</string>
+<key>RollDateAsTimerInterval</key>
+<real>396899948.000000</real>
+<key>KeyPhotoKey</key>
+<string>1</string>
+<key>PhotoCount</key>
+<integer>19</integer>
+<key>KeyListString</key>
+<string>1,3,5,7,9,11,13,15,17,19,21,23,25,27,29,31,33,35,37</string>
+</dict>
+</array>
+</dict>
+</plist>
